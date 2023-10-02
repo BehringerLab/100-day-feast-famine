@@ -1,0 +1,272 @@
+Population	Background	Mutation	Time	MutGene	PopNum	Mut_Type	MutClass	GeneType
+511	MMR-	araJ (V244A)	300	araJ	511	snp	Parallel_Variant	Transporter
+506	MMR-	araJ (V244A)	90	araJ	506	snp	Parallel_Variant	Transporter
+518	MMR-	araJ (V244A)	90	araJ	518	snp	Parallel_Variant	Transporter
+523	MMR-	araJ (V244A)	90	araJ	523	snp	Parallel_Variant	Transporter
+P503	WT	argR (P70S)	600	argR	503	snp	Parallel_Variant	Regulator
+P524	WT	argR (P70S)	900	argR	524	snp	Parallel_Variant	Regulator
+P504	MMR-	argR (P70L)	300	argR	504	snp	Parallel_Variant	Regulator
+P512	WT	argR (Q154*)	700	argR	512	NS	Parallel_Variant	Regulator
+P515	WT	argR (Q154*)	600	argR	515	NS	Parallel_Variant	Regulator
+513	WT	cdsA	200	cdsA	513	snp	snp	Membrane
+523	MMR-	cdsA	200	cdsA	523	snp	snp	Membrane
+508	WT	cdsA	300	cdsA	508	snp	snp	Membrane
+520	WT	cdsA (P130S)	300	cdsA	520	snp	Parallel_Variant	Membrane
+521	MMR-	cdsA (P130S)	700	cdsA	521	snp	Parallel_Variant	Membrane
+509	MMR-	clpA	200	clpA	509	snp	snp	Chaperone
+516	MMR-	clpA	600	clpA	516	snp	snp	Chaperone
+523	MMR-	clpA	90	clpA	523	snp	snp	Chaperone
+524	WT	clpA	800	clpA	524	indel	indel	Chaperone
+508	WT	clpA	90	clpA	508	snp	snp	Chaperone
+501	WT	cpdA	900	cpdA	501	indel	indel	Metabolism
+503	WT	cpdA (3176355)	200	cpdA	503	indel	indel	Metabolism
+506	MMR-	cpdA (3176355)	90	cpdA	506	indel	indel	Metabolism
+511	MMR-	cpdA (3176355)	300	cpdA	511	indel	indel	Metabolism
+513	WT	cpdA (3176355)	90	cpdA	513	indel	indel	Metabolism
+515	WT	cpdA (3176355)	90	cpdA	515	indel	indel	Metabolism
+516	MMR-	cpdA	90	cpdA	516	ns	NS	Metabolism
+518	MMR-	cpdA (3176355)	90	cpdA	518	indel	indel	Metabolism
+521	MMR-	cpdA (3176355)	90	cpdA	521	indel	indel	Metabolism
+P509	MMR-	crp (E56K)	600	crp	509	snp	Parallel_Variant	Regulator
+P518	MMR-	crp (E56K)	300	crp	518	snp	Parallel_Variant	Regulator
+P512	WT	crp	300	crp	512	snp	snp	Regulator
+P521	MMR-	crp	200	crp	521	snp	snp	Regulator
+P524	WT	cspC	700	cspC	524	snp	snp	Regulator
+P506	MMR-	cspC	90	cspC	506	snp	snp	Regulator
+P511	MMR-	cspC	300	cspC	511	snp	snp	Regulator
+P518	MMR-	cspC	200	cspC	518	NS	NS	Regulator
+P523	MMR-	cspC	200	cspC	523	snp	snp	Regulator
+503	WT	dacA	200	dacA	503	snp	snp	Membrane
+504	MMR-	dacA	200	dacA	504	snp	snp	Membrane
+512	WT	dacA	200	dacA	512	indel	indel	Membrane
+524	WT	dacA	200	dacA	524	snp	snp	Membrane
+509	MMR-	dacA	300	dacA	509	NS	NS	Membrane
+508	WT	dacA	600	dacA	508	IS	IS	Membrane
+520	WT	dacA	600	dacA	520	snp	snp	Membrane
+515	WT	dacA	600	dacA	515	Large_Deletion	Large_Deletion	Membrane
+513	WT	dacA	700	dacA	513	snp	snp	Membrane
+516	MMR-	dacA (D53N)	200	dacA	516	snp	Parallel_Variant	Membrane
+518	MMR-	dacA (G288D)	300	dacA	518	snp	Parallel_Variant	Membrane
+523	MMR-	dacA (D53N)	90	dacA	523	snp	Parallel_Variant	Membrane
+506	MMR-	dacA (D53N)	90	dacA	506	snp	Parallel_Variant	Membrane
+521	MMR-	dacA (G288D)	900	dacA	521	snp	Parallel_Variant	Membrane
+501	WT	dadX	800	dadX	501	indel	indel	Metabolism
+518	MMR-	dadX	700	dadX	518	snp	snp	Metabolism
+521	MMR-	dadX	200	dadX	521	NS	NS	Metabolism
+509	MMR-	dadX	300	dadX	509	snp	snp	Metabolism
+516	MMR-	dadX	200	dadX	516	snp	snp	Metabolism
+509	MMR-	dctA	90	dctA	509	snp	snp	Transporter
+504	MMR-	dctA	300	dctA	504	snp	snp	Transporter
+506	MMR-	dctA	600	dctA	506	snp	snp	Transporter
+518	MMR-	dctA	600	dctA	518	snp	snp	Transporter
+516	MMR-	dctA	600	dctA	516	snp	snp	Transporter
+501	WT	dctA	600	dctA	501	indel	indel	Transporter
+508	WT	dctA	800	dctA	508	snp	snp	Transporter
+513	WT	dctA	900	dctA	513	snp	snp	Transporter
+511	MMR-	dctA (V96A)	400	dctA	511	snp	Parallel_Variant	Transporter
+521	MMR-	dctA (V96A)	90	dctA	521	snp	Parallel_Variant	Transporter
+P508	WT	dsdC	800	dsdC	508	indel	indel	Regulator
+P520	WT	dsdC	600	dsdC	520	snp	snp	Regulator
+P516	MMR-	dsdC	90	dsdC	516	snp	snp	Regulator
+P503	WT	fimE	90	fimE	503	IS	IS	Regulator
+P508	WT	fimE	90	fimE	508	IS	IS	Regulator
+P512	WT	fimE	200	fimE	512	IS	IS	Regulator
+P513	WT	fimE	90	fimE	513	IS	IS	Regulator
+P515	WT	fimE	90	fimE	515	IS	IS	Regulator
+P504	MMR-	fimE	90	fimE	504	IS	IS	Regulator
+P506	MMR-	fimE (T8A)	90	fimE	506	snp	Parallel_Variant	Regulator
+P511	MMR-	fimE (T8A)	90	fimE	511	snp	Parallel_Variant	Regulator
+P516	MMR-	fimE (T8A)	90	fimE	516	snp	Parallel_Variant	Regulator
+P518	MMR-	fimE (T8A)	90	fimE	518	snp	Parallel_Variant	Regulator
+P523	MMR-	fimE (T8A)	90	fimE	523	snp	Parallel_Variant	Regulator
+509	MMR-	gabP	600	gabP	509	indel	indel	Transporter
+516	MMR-	gabP	700	gabP	516	indel	indel	Transporter
+524	WT	gabP	700	gabP	524	indel	indel	Transporter
+521	MMR-	gabP	900	gabP	521	indel	indel	Transporter
+P503	WT	hdfR	200	hdfR	503	indel	indel	Regulator
+P515	WT	hdfR	90	hdfR	515	snp	snp	Regulator
+P504	MMR-	hdfR	300	hdfR	504	snp	snp	Regulator
+P511	MMR-	hdfR	300	hdfR	511	NS	NS	Regulator
+P516	MMR-	hdfR	200	hdfR	516	NS	NS	Regulator
+P518	MMR-	hdfR	300	hdfR	518	indel	indel	Regulator
+516	MMR-	hisP	700	hisP	516	indel	indel	Transporter
+511	MMR-	hisP	900	hisP	511	indel	indel	Transporter
+P503	WT	hns	90	hns	503	indel	indel	Regulator
+P512	WT	hns	90	hns	512	snp	snp	Regulator
+P515	WT	hns	200	hns	515	indel	indel	Regulator
+P504	MMR-	hns	200	hns	504	snp	snp	Regulator
+P506	MMR-	hns	90	hns	506	snp	snp	Regulator
+P516	MMR-	hns	90	hns	516	snp	snp	Regulator
+P501	WT	hns (A95E)	300	hns	501	snp	Parallel_Variant	Regulator
+P513	WT	hns (A95E)	200	hns	513	snp	Parallel_Variant	Regulator
+P511	MMR-	hns (R93H)	300	hns	511	snp	Parallel_Variant	Regulator
+P518	MMR-	hns (R93H)	200	hns	518	snp	Parallel_Variant	Regulator
+P503	WT	infB	300	infB	503	snp	snp	Regulator
+P513	WT	infB	90	infB	513	snp	snp	Regulator
+P515	WT	infB	700	infB	515	snp	snp	Regulator
+P520	WT	infB	600	infB	520	snp	snp	Regulator
+P524	WT	infB	900	infB	524	indel	indel	Regulator
+P509	MMR-	infB	600	infB	509	snp	snp	Regulator
+P511	MMR-	infB	900	infB	511	snp	snp	Regulator
+P516	MMR-	infB	200	infB	516	snp	snp	Regulator
+P518	MMR-	infB	900	infB	518	snp	snp	Regulator
+P521	MMR-	infB	200	infB	521	snp	snp	Regulator
+P523	MMR-	infB	900	infB	523	snp	snp	Regulator
+P512	WT	infB (M476I)	900	infB	512	snp	Parallel_Variant	Regulator
+P513	WT	infB (M476I)	900	infB	513	snp	Parallel_Variant	Regulator
+P503	WT	paaX	90	paaX	503	indel	indel	Regulator
+P508	WT	paaX	90	paaX	508	IS	IS	Regulator
+P524	WT	paaX	200	paaX	524	snp	snp	Regulator
+P523	MMR-	paaX	600	paaX	523	indel	indel	Regulator
+P512	WT	paaX (R55C)	90	paaX	512	snp	Parallel_Variant	Regulator
+P509	MMR-	paaX (G19D)	90	paaX	509	snp	Parallel_Variant	Regulator
+P516	MMR-	paaX (G19D)	90	paaX	516	snp	Parallel_Variant	Regulator
+P513	WT	paaX (R55C)	200	paaX	513	snp	Parallel_Variant	Regulator
+516	MMR-	pgsA (T60A)	90	pgsA	516	snp	Parallel_Variant	Membrane
+518	MMR-	pgsA (T60A)	200	pgsA	518	snp	Parallel_Variant	Membrane
+509	MMR-	pitA	90	pitA	509	snp	snp	Transporter
+515	WT	pitA	90	pitA	515	snp	snp	Transporter
+504	MMR-	pitA	200	pitA	504	snp	snp	Transporter
+511	MMR-	pitA	700	pitA	511	indel	indel	Transporter
+523	MMR-	pitA	700	pitA	523	NS	NS	Transporter
+501	WT	pitA	900	pitA	501	NS	NS	Transporter
+503	WT	pitA	900	pitA	503	snp	snp	Transporter
+512	WT	pitA	900	pitA	512	NS	NS	Transporter
+518	MMR-	pitA	900	pitA	518	snp	snp	Transporter
+520	WT	pitA	900	pitA	520	snp	snp	Transporter
+524	WT	pitA	900	pitA	524	indel	indel	Transporter
+503	WT	ppx	700	ppx	503	indel	indel	Metabolism
+518	MMR-	ppx	700	ppx	518	indel	indel	Metabolism
+504	MMR-	proQ	300	proQ	504	ns	NS	Chaperone
+508	WT	proQ	90	proQ	508	indel	indel	Chaperone
+511	MMR-	proQ	400	proQ	511	ns	NS	Chaperone
+P501	WT	putA	600	putA	501	snp	snp	Regulator
+P503	WT	putA	300	putA	503	snp	snp	Regulator
+P508	WT	putA	300	putA	508	snp	snp	Regulator
+P524	WT	putA	700	putA	524	snp	snp	Regulator
+P506	MMR-	putA	700	putA	506	snp	snp	Regulator
+P511	MMR-	putA	400	putA	511	snp	snp	Regulator
+P516	MMR-	putA	200	putA	516	snp	snp	Regulator
+P518	MMR-	putA	700	putA	518	snp	snp	Regulator
+P523	MMR-	putA	600	putA	523	snp	snp	Regulator
+P512	WT	putA (A700T)	700	putA	512	snp	Parallel_Variant	Regulator
+P520	WT	putA (E225K)	200	putA	520	snp	Parallel_Variant	Regulator
+P509	MMR-	putA (A700T)	600	putA	509	snp	Parallel_Variant	Regulator
+P521	MMR-	putA (E225K)	700	putA	521	snp	Parallel_Variant	Regulator
+523	MMR-	putP	800	putP	523	snp	snp	Transporter
+501	WT	putP	800	putP	501	indel	indel	Transporter
+512	WT	putP	800	putP	512	indel	indel	Transporter
+520	WT	putP	900	putP	520	indel	indel	Transporter
+513	WT	putP	900	putP	513	snp	snp	Transporter
+516	MMR-	putP (P44S)	200	putP	516	snp	Parallel_Variant	Transporter
+503	WT	putP (A337T)	300	putP	503	snp	Parallel_Variant	Transporter
+509	MMR-	putP (D55E)	800	putP	509	snp	Parallel_Variant	Transporter
+511	MMR-	putP (P44S)	700	putP	511	snp	Parallel_Variant	Transporter
+518	MMR-	putP (A337T)	600	putP	518	snp	Parallel_Variant	Transporter
+524	WT	putP (V205A)	600	putP	524	snp	Parallel_Variant	Transporter
+506	MMR-	putP (V205A)	600	putP	506	snp	Parallel_Variant	Transporter
+521	MMR-	putP (D55G)	700	putP	521	snp	Parallel_Variant	Transporter
+P503	WT	rho	700	rho	503	snp	snp	Regulator
+P501	WT	rho (R109H)	90	rho	501	snp	Parallel_Variant	Regulator
+P516	MMR-	rho	90	rho	516	snp	snp	Regulator
+P504	MMR-	rho (R109H)	90	rho	504	snp	Parallel_Variant	Regulator
+P511	MMR-	rho (R109H)	300	rho	511	snp	Parallel_Variant	Regulator
+P518	MMR-	rho (R109H)	200	rho	518	snp	Parallel_Variant	Regulator
+P523	MMR-	rho (R109H)	400	rho	523	snp	Parallel_Variant	Regulator
+P506	MMR-	rplN	700	rplN	506	snp	snp	Regulator
+P511	MMR-	rplN	700	rplN	511	snp	snp	Regulator
+P516	MMR-	rplN	400	rplN	516	snp	snp	Regulator
+P520	WT	rplN (R98C)	700	rplN	520	snp	Parallel_Variant	Regulator
+P524	WT	rplN (R98C)	700	rplN	524	snp	Parallel_Variant	Regulator
+P521	MMR-	rplN (K51E)	900	rplN	521	snp	Parallel_Variant	Regulator
+P523	MMR-	rplN (K51E)	700	rplN	523	snp	Parallel_Variant	Regulator
+P518	MMR-	rplN (K51N)	900	rplN	518	snp	Parallel_Variant	Regulator
+P520	WT	rpoB	700	rpoB	520	snp	snp	Regulator
+P504	MMR-	rpoB	200	rpoB	504	snp	snp	Regulator
+P516	MMR-	rpoB	300	rpoB	516	snp	snp	Regulator
+P521	MMR-	rpoB	200	rpoB	521	snp	snp	Regulator
+P511	MMR-	rpoB	700	rpoB	511	snp	snp	Regulator
+P506	MMR-	rpoB (E859K)	90	rpoB	506	snp	Parallel_Variant	Regulator
+P523	MMR-	rpoB (E859K)	200	rpoB	523	snp	Parallel_Variant	Regulator
+P501	WT	rpoC	700	rpoC	501	snp	snp	Regulator
+P503	WT	rpoC	700	rpoC	503	snp	snp	Regulator
+P512	WT	rpoC	200	rpoC	512	snp	snp	Regulator
+P513	WT	rpoC	300	rpoC	513	snp	snp	Regulator
+P504	MMR-	rpoC	200	rpoC	504	snp	snp	Regulator
+P506	MMR-	rpoC	300	rpoC	506	snp	snp	Regulator
+P516	MMR-	rpoC	600	rpoC	516	snp	snp	Regulator
+P521	MMR-	rpoC	700	rpoC	521	snp	snp	Regulator
+P523	MMR-	rpoC	400	rpoC	523	snp	snp	Regulator
+P508	WT	rpoC (P51L)	90	rpoC	508	snp	Parallel_Variant	Regulator
+P509	MMR-	rpoC (P51L)	90	rpoC	509	snp	Parallel_Variant	Regulator
+509	MMR-	speC	800	speC	509	indel	indel	Metabolism
+516	MMR-	speC	400	speC	516	ns	NS	Metabolism
+523	MMR-	speC	600	speC	523	snp	snp	Metabolism
+508	WT	spoT	600	spoT	508	snp	snp	Regulator
+509	MMR-	spoT	200	spoT	509	snp	snp	Regulator
+501	WT	spoT	700	spoT	501	snp	snp	Regulator
+515	WT	spoT	200	spoT	515	snp	snp	Regulator
+503	WT	sspA	90	sspA	503	snp	snp	Regulator
+512	WT	sspA	800	sspA	512	indel	indel	Regulator
+506	MMR-	sspA	90	sspA	506	snp	snp	Regulator
+520	WT	sspA (V94A)	90	sspA	520	snp	Parallel_Variant	Regulator
+521	MMR-	sspA (V94A)	700	sspA	521	snp	Parallel_Variant	Regulator
+523	MMR-	sstT	600	sstT	523	snp	snp	Transporter
+501	WT	sstT	90	sstT	501	snp	snp	Transporter
+512	WT	sstT (A301T)	900	sstT	512	snp	Parallel_Variant	Transporter
+520	WT	sstT (A341T)	600	sstT	520	snp	Parallel_Variant	Transporter
+513	WT	sstT	300	sstT	513	snp	snp	Transporter
+516	MMR-	sstT (A296V)	600	sstT	516	snp	Parallel_Variant	Transporter
+503	WT	sstT	900	sstT	503	snp	snp	Transporter
+509	MMR-	sstT (A296V)	200	sstT	509	snp	Parallel_Variant	Transporter
+511	MMR-	sstT	300	sstT	511	snp	snp	Transporter
+518	MMR-	sstT (A95T)	400	sstT	518	snp	Parallel_Variant	Transporter
+524	WT	sstT (A341T)	700	sstT	524	snp	Parallel_Variant	Transporter
+506	MMR-	sstT (A296V)	300	sstT	506	snp	Parallel_Variant	Transporter
+521	MMR-	sstT (A95T)	700	sstT	521	snp	Parallel_Variant	Transporter
+515	WT	sstT	300	sstT	515	snp	snp	Transporter
+504	MMR-	sstT (A301T)	300	sstT	504	snp	Parallel_Variant	Transporter
+508	WT	sstT (A301T)	300	sstT	508	snp	Parallel_Variant	Transporter
+503	WT	sucC	600	sucC	503	snp	snp	Metabolism
+508	WT	sucC	90	sucC	508	snp	snp	Metabolism
+509	MMR-	sucC	200	sucC	509	snp	snp	Metabolism
+506	MMR-	sucC (F319S)	200	sucC	506	snp	Parallel_Variant	Metabolism
+512	WT	sucC	300	sucC	512	indel	indel	Metabolism
+513	WT	sucC (F319S)	90	sucC	513	snp	Parallel_Variant	Metabolism
+515	WT	sucC	900	sucC	515	snp	snp	Metabolism
+518	MMR-	sucC	200	sucC	518	snp	snp	Metabolism
+521	MMR-	sucC	600	sucC	521	snp	snp	Metabolism
+523	MMR-	sucC	200	sucC	523	snp	snp	Metabolism
+524	WT	sucC	600	sucC	524	indel	indel	Metabolism
+521	MMR-	ybaL	90	ybaL	521	snp	snp	Transporter
+509	MMR-	ybaL	200	ybaL	509	NS	NS	Transporter
+515	WT	ybaL	600	ybaL	515	snp	snp	Transporter
+511	MMR-	ybaL	800	ybaL	511	indel	indel	Transporter
+504	MMR-	ybaL	800	ybaL	504	indel	indel	Transporter
+516	MMR-	ybaL	900	ybaL	516	snp	snp	Transporter
+P501	WT	ydcI	90	ydcI	501	indel	indel	Regulator
+P503	WT	ydcI	700	ydcI	503	indel	indel	Regulator
+P508	WT	ydcI	90	ydcI	508	IS	IS	Regulator
+P513	WT	ydcI	90	ydcI	513	snp	snp	Regulator
+P515	WT	ydcI	90	ydcI	515	indel	indel	Regulator
+P520	WT	ydcI	600	ydcI	520	snp	snp	Regulator
+P524	WT	ydcI	200	ydcI	524	indel	indel	Regulator
+P504	MMR-	ydcI	200	ydcI	504	snp	snp	Regulator
+P506	MMR-	ydcI	300	ydcI	506	snp	snp	Regulator
+P511	MMR-	ydcI	300	ydcI	511	snp	snp	Regulator
+P516	MMR-	ydcI	90	ydcI	516	snp	snp	Regulator
+P518	MMR-	ydcI	90	ydcI	518	indel	indel	Regulator
+P521	MMR-	ydcI	90	ydcI	521	snp	snp	Regulator
+P523	MMR-	ydcI	90	ydcI	523	snp	snp	Regulator
+501	WT	mreB (P115L)	200	mreB	501	snp	Parallel_Variant	Membrane
+504	MMR-	mreB (P115L)	90	mreB	504	snp	Parallel_Variant	Membrane
+513	WT	mreB	90	mreB	513	snp	snp	Membrane
+511	MMR-	mreB	200	mreB	511	snp	snp	Membrane
+523	MMR-	mreB	90	mreB	523	snp	snp	Membrane
+509	MMR-	nudF	200	nudF	509	indel	indel	Metabolism
+504	MMR-	nudF	400	nudF	504	indel	indel	Metabolism
+516	MMR-	nudF	200	nudF	516	indel	indel	Metabolism
+506	MMR-	nudF	600	nudF	506	indel	indel	Metabolism
+521	MMR-	nudF	300	nudF	521	indel	indel	Metabolism
+506	MMR-	gltA	300	gltA	506	snp	snp	Metabolism
+521	MMR-	gltA	200	gltA	521	snp	snp	Metabolism
