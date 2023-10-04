@@ -9,7 +9,7 @@ library(grid)
 library(ggpp)
 
 #Read in massive Biofilm Data File
-FF_100_Biofilm<-read.table("/Users/megangrace/Box/Behringer_Lab_Box_Drive/Projects/LongTermExpEvo/StarvationExperiment/PopulationLevelAnalysis/Phenotypes/Biofilm/BiofilmPopulations_100FF.txt",sep='\t',header=FALSE)
+FF_100_Biofilm<-read.table("~/GitHub/datasets/BiofilmPopulations_100FF.txt",sep='\t',header=FALSE)
 FF_100_Biofilm
 
 #Break Biofilm Data down by batch
@@ -245,7 +245,7 @@ BF_Plot_noEvo<-ggplot(BiofilmPlatesD900noEvo, aes(x=Sample,y=OD550_Normal, col=S
 BF_Plot_noEvo
 
 ####Pull in Motility Data
-Motility<-read.table("/Users/megangrace/Desktop/WorkFiles/MotilityPhotos/Motility_Images/Motility5_5_22.txt",sep="\t",header=TRUE)
+Motility<-read.table("~/GitHub/datasets/MotilityFinal.txt",sep="\t",header=TRUE)
 
 #Organize Motility Data for Plotting
 Motility$Population<-factor(Motility$Population, levels=c("WT","fimE","paaX","ydcI","hdfR","lrhA","hdfR/fimE","501","503","504","506","508","509","511","512","513","515","516","518","520","521","523","524"))
